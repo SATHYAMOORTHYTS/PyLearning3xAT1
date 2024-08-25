@@ -1,4 +1,4 @@
-age =24
+age = 24
 name = "Sathya"
 
 if name == "Sathya":

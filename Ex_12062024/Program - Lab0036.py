@@ -8,10 +8,8 @@ b = int(input("Enter the second number\n: "))
 result = max(a, b)
 print(result)
 
-if  a > b:
+if a > b:
     print(a)
 
 else:
     print(b)
-
-    

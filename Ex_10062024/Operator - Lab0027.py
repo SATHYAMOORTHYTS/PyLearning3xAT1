@@ -1,7 +1,4 @@
-from queue import PriorityQueue  # ✅ Operators
-from xml.dom.minidom import ProcessingInstruction
-
-from PyLearning3xAT.Ex_07062024.Lab0014 import result
+ # ✅ Operators
 
 # 1. Assignment Operators
  # 2. Arithmetic Operators
@@ -10,6 +7,18 @@ from PyLearning3xAT.Ex_07062024.Lab0014 import result
  # 5. Bitwise Operators
  # 6. Special Operators
  # 7. Unary operators
+ # 9.Relational Operator
+
+ # Relational Operator
+a = 10
+b = 20
+print(a > b)
+print(a < b)
+print(a == b)
+print(a != b)
+print(a >= b)
+print(a <= b)
+
 
 
  # Unary operators

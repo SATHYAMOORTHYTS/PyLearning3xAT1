@@ -9,15 +9,38 @@
  # 7. Unary operators
  # 9.Relational Operator
 
+
+ # Assignment Operators
+a = 10
+b = 20
+c = a + b
+print(c)
+c += a # c = c + a
+
+# Arithmetic Operators
+a = 2
+b = 20\
+print(a + b) # Add
+print(a - b) # Sub
+print(a * b) # Mul
+print(a / b) # Div
+print(a % b) # Mod
+print(a ** b) # Exponentiation
+print(a // b) # Floor Div
+print(a & b)
+print(a | b)
+
+
+
  # Relational Operator
 a = 10
 b = 20
-print(a > b)
-print(a < b)
-print(a == b)
-print(a != b)
-print(a >= b)
-print(a <= b)
+print(a > b) # greater
+print(a < b) # lesser
+print(a >= b) # greater or equal
+print(a <= b) # lesser or equal
+print(a == b) # equal - return in boolean
+print(a != b) # not equal
 
 
 

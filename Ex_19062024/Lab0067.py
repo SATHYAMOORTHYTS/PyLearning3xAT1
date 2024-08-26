@@ -7,7 +7,7 @@ def add():
     b = 20
     c = a+b
     local variable
-    print(c)
+    print(b)
 
 my_function = add() # calling the function
 print(my_function) # None - as function does not return any value, it returns None by default

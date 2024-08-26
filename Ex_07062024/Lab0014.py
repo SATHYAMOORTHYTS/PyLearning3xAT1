@@ -9,7 +9,7 @@ print(result)
 
 
 # + -> int sum operation
-# + -> str - concatinate
+# + -> str - concatenate
 # int to str -> str()
 # str to int -> int()
 

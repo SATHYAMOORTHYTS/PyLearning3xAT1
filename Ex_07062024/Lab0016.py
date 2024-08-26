@@ -1,5 +1,3 @@
-from PyLearning3xAT.Ex_07062024.Lab0014 import result
-
 pi = 3.14
 print(pi)
 print(type(pi))

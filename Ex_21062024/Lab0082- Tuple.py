@@ -8,8 +8,6 @@ print(new_tuple[0])
 print(new_tuple[1][1])
 print(new_tuple[2][0])
 print(new_tuple[2][1])
-print(len(new_tuple))
-print(type(new_tuple))
 
 
 

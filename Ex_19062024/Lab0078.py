@@ -18,7 +18,7 @@ my_list = [1, 2, 3, 4, 5, 6]
 
 # 1. Takes each item from the list
 # execute th function on it
-# return sam number of elements(llist)
+# return same number of elements(list)
 
 double_list = list(map(lambda num: num ** 2,my_list))
 print(double_list)

@@ -14,6 +14,7 @@ def note_time_decorator(func):  # Define a decorator function
 def logs_function():
     time.sleep(5)
     print("print the logs of time taken")
+    #########
 
 @ note_time_decorator
 def reporting_func():

@@ -1,3 +1,5 @@
+#
+
 sathya_details = {
     "name": "Sathya",
     "age": 24,
@@ -21,3 +23,5 @@ print(list(my_dict.keys()))# keys in list format
 
 for k,v in my_dict.items():
     print(k,v)
+
+

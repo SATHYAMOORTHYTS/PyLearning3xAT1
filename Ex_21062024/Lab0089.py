@@ -22,7 +22,7 @@ phone_book = dict(
     ram="9812345678",
     shyam="9812345679",
     hari="9812345670")
-print(phone_book)
+print(phone_book["ram"])
 
 
 

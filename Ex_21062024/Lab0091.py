@@ -13,3 +13,7 @@ print(my_dict)
 
 for k,v in my_dict.items():
     print(k, v)
+    if k == 'c':
+        break
+        print("Loop Breaked")
+

@@ -17,19 +17,20 @@ class Student:
 
     def play(self):
         print(f"{self.name} is playing.")
+
 # object? --
 
 # procedural PL - top down approach
 # object oriented PL - bottom up approach
 
 
-# Procedural PL -> Funcions = It does no take care of the attribute and behaviour
+# Procedural PL -> have only Funcions = It does no take care of the attribute and behaviour
 # functions and do the task
 # c, basic , fortan - PL languages
 
 # close to real world
 # OOPS = Class and objects
-# takes about attributes and behaviour
+# talks about attributes and behaviour
 # python, java, c#, c++
 
 # students - attributes, behaviour

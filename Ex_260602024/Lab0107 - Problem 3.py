@@ -18,6 +18,4 @@ person2 = Person("Bob", 30)
 print(person1.name)  # Output: Alice
 print(person2.age)   # Output: 30
 
-
-
 # Invoking object method

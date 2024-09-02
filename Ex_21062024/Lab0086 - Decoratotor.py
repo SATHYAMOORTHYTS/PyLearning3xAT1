@@ -1,5 +1,6 @@
 # Decorators
 # A decorator is a function that takes another function as an argument and extends its behavior without explicitly modifying the function source code.
+
 def my_decorator(func):
     def wrapper():
         print("Starting......")

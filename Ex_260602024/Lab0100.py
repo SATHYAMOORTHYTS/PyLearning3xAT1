@@ -17,7 +17,7 @@ class Student:
 
     def play(self):
         print(f"{self.name} is playing.")
-# object? -
+# object? --
 
 # procedural PL - top down approach
 # object oriented PL - bottom up approach

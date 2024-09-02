@@ -28,4 +28,4 @@ class MyClass:
         print(MyClass.__init__.__code__)  # Accessing method code object
         print(MyClass.__init__.__globals__)  # Accessing global namespace
         print(MyClass.__init__.__closure__)  # Accessing closure values
-#
+###

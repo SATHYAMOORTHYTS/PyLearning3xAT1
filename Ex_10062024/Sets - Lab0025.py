@@ -1,4 +1,4 @@
-#Sets
+# Sets
 
 my_set = {1, 2, 3, 4, 5, 5, 7, 8, 9, 10} # COLLECTION OF UNIQUE ITEMS
 print(my_set)

@@ -1,4 +1,4 @@
-# Ternary operator
+ # Ternary operator
 
 sathya = 30
 amid  = 33

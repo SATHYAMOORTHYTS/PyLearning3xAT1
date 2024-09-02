@@ -1,4 +1,4 @@
-# Arithmatic Operators
+ # Arithmatic Operators
 # +, -, *, /, %, //, **
 
 a = 180

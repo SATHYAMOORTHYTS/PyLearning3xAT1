@@ -1,4 +1,4 @@
-# Literals
+ # Literals
 # var_name = variable_value
 a = 10
 name = "sathya"

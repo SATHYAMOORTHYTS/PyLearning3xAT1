@@ -1,13 +1,15 @@
-# ✅ Operators - are
-
-# 1. Assignment Operators
- # 2. Arithmetic Operators
- # 3. Comparison (Relational) Operators
- # 4. Logical Operators
- # 5. Bitwise Operators
- # 6. Special Operators
- # 7. Unary operators
- # 9.Relational Operator
+# ✅ Operators - are used to perform operations on variables and values.
+# �� Python divides the operators in the following categories:
+# 1. Arithmetic operators
+# 2. Assignment operators
+# 3. Comparison operators
+# 4. Logical operators
+# 5. Identity operators
+# 6. Membership operators
+# 7. Bitwise operators
+# 8. Special operators
+# 9. Unary operators
+# 10. Relational Operator
 
 
  # Assignment Operators

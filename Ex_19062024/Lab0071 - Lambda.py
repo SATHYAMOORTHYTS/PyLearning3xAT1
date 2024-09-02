@@ -1,4 +1,7 @@
 #  lambda Expression
+#  lambda parameter: expression
+#  lambda is a one line function
+
 
 # def double_my_salary(salary):
 #     return salary * 2

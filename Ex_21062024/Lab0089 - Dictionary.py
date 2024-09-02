@@ -6,7 +6,6 @@
 
 dic = {}
 # name -> "ram"
-
 my_dict = {"name": "ram", "age": 23, "address": "kathmandu"}
 print(my_dict["name"])
 my_dict["name"] = "shyam"

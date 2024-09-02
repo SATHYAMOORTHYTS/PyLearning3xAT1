@@ -6,6 +6,7 @@
 # Tuples are immutable, meaning that their elements cannot be changed once created.
 # Tuples are created by XXXXXXX a sequence of values separated by commas within round brackets ()
 
+
 # Creating a tuple
 my_tuple = (1, 2, 3, 4, 5)
 

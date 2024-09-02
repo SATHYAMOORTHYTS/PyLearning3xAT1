@@ -1,4 +1,4 @@
-# Filters in Java
+# Filters in JavA
 
 # python = vast = not al functions are required to built you
 # Automation Tester - API snd WEB Automation

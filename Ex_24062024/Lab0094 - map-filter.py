@@ -1,4 +1,4 @@
-# map - return normal number
+## map - return normal number
 # pick 1 item and apply the function
 # give the sam enumber of elements
 

@@ -1,4 +1,4 @@
-# # LeeTcode - sUM OF DIGITS
+ # LeeTcode - sUM OF DIGITS
 #
 # number = 12345
 # r1 = number%10

@@ -4,7 +4,7 @@ def sum_of_digis(n):
         sum_digits = sum_digits + n % 10
         n = n // 10 # quotient
         # / - divide
-        # // - quotient
+        # // -- quotient
         # % - remainder
         return sum_digits
 

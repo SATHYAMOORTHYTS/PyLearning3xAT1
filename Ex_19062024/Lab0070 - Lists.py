@@ -7,6 +7,8 @@
 # list allows duplicate values
 # list is dynamic
 
+
+
 bicycles = ['trek', 'cannondale', 'redline', 'specialized']
 
 # how to use list in user define function

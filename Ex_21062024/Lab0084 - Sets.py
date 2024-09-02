@@ -1,7 +1,15 @@
-#sets
-# List of items in a collection that are unordered and unique
-#
-my_set = {1,2,3,4,5,5}
+# SETS --
+# sets are unordered
+# sets are unindexed
+# sets cannot contain duplicate values
+# sets are mutable
+# sets are created using {} curly braces
+
+
+my_set = {1,2,3,4,5}
+
+my_set = {1,2,3,4,5,5} # removes the duplicates
+print(my_set)
 
 # sets are ordered in {} curly braces
 

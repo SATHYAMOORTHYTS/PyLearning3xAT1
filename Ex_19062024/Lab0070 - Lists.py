@@ -1,4 +1,12 @@
 # Lists - list is a collection of items in a particular order
+# list is mutable
+# list is defined by square brackets []
+# list is zero indexed
+# list is ordered
+# list is changeable
+# list allows duplicate values
+# list is dynamic
+
 bicycles = ['trek', 'cannondale', 'redline', 'specialized']
 
 # how to use list in user define function

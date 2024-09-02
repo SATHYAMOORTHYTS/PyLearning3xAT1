@@ -1,7 +1,5 @@
 # Dictionary to store the count of each character
 # key and value
-
-
 # A dictionary is an unorderes collection of data
 # In a key value format.
 # Mutable in nature

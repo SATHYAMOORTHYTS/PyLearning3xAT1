@@ -7,7 +7,7 @@ class person:
     address = None
 
     # Behaviour
-    # - beahviour are created with functions
+    # - beahviour are created with function
 
     def walk(self): # NO arg, No return
         print("I am walking")

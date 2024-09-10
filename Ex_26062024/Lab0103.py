@@ -2,7 +2,7 @@
 # class names should start with a capital letter
 
 #### objects are allocated a memory spcae whenever they are created ####
-# classes ae not memory allocated - it is a blureprint
+# classes ae not memory allocated - it is a blueprint
 
 # class names should be in CamelCase
 # class names should not contain spaces

@@ -1,8 +1,12 @@
+##
+#
 class Person:
+    # constructor with attributes
     def __init__(self, name, age):
         self.name = name
         self.age = age
 
+    # Behaviour
         def sleep(self):
             print("Who is  Sleeping" + self.name + " " + self.id )
 

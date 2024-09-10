@@ -11,7 +11,7 @@ class Dog:
         self.id = id
 
      # constructor?
-     #  Use to initialize the values
+     #  Use to initialize the values of the instance variables (Attributes)
 
 
 
@@ -22,6 +22,7 @@ class Dog:
         print("Eating")
 
 
+# Object creation
 
 dog1 = Dog() # Object creation
 print(dog1.name)
@@ -33,3 +34,4 @@ dog2 = Dog() # Object creation
 print(dog2.name)
 dog2.name = "Mow"
 print(dog2.name)
+

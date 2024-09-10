@@ -5,15 +5,17 @@ class Dog:
     age = None
     color = None
 
+    # constructor - A speical methods
+
     def __init__(self,name,id,bread,color): # Constructor __ - private method
-        self.name = name  # self - means current object
+        self.name = name  #### self - means current object
         self.id = id
         self.breed = bread
         self.color = color
 
-
+    # Behaviour (Methods)
     def sleep(self):
-        print("Who is  Sleeping" + self.name + " " + self.id + " " +self.breed + " " + self.color)
+        print("Who is  Sleeping" + " " +self.name + " " + self.id + " " +self.breed + " " + self.color)
 
 
 dog1 =  Dog("Tommy", "1" , "labrador" , "white") # these are objects1 created

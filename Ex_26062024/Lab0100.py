@@ -1,4 +1,5 @@
 # oops - object oriented programming system
+
 # class - it is a blueprint of an object
 # object - it is an instance of a class
 # attributes - variables
@@ -11,7 +12,7 @@ class Student:
     age = 20
     grade = "A"
 
-    # behaviour
+    # behaviour - methods
     def study(self):
         print(f"{self.name} is studying.")
 

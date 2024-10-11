@@ -82,3 +82,5 @@ List of topics covered in the document that you can add to a README.md file:
 
 - allure serve allure_result
 
+## How to add requests 
+- pip install requests

@@ -1,11 +1,11 @@
 # PUT
 # URL
-# Path - Bookinf ID
+# Path - Booking ID
 # Token - Auth
 # Payload
 
 import allure  # pip install allure
-import pytest  # pip instal pytest
+import pytest  # pip install pytest
 import requests  # pip install requests
 
 
@@ -45,13 +45,13 @@ def create_booking():
 
     # Assertions
     assert response.status_code == 200
-    # get the reponse Body and Verify the JSON, Booking ID is not None
+    # get the response Body and Verify the JSON, Booking ID is not None
     data = response.json()
     booking_id = data["bookingid"]
     return booking_id
 
 
-def test_put_request_postive():
+def test_put_request_positive():
     base_url = "https://restful-booker.herokuapp.com"
     base_path = "/booking/"+str(create_booking())
     PUT_URL = base_url+base_path
